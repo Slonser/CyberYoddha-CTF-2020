@@ -4,5 +4,6 @@ Let's login with the credentials
 ```
 login : admin
 password : ' OR '1'='1
-Login successful  
+Login successful
+```
 ### cyctf{1_l0v3_$qli}
