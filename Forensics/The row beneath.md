@@ -1,4 +1,4 @@
-#The row beneath
+# The row beneath
 Just look at the strings and do a grep on the flag format
 ```
 strings plan.png | grep CTF{
