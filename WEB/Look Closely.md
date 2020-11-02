@@ -1,7 +1,7 @@
-#Look Closely
+# Look Closely
 download Index.html.
 ```
 $strings index.html | grep CYCTF{
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia d<!-- CYCTF{1nSp3t_eL3M3nt?}-->eserunt mollit anim id est laborum.
 ```
-###CYCTF{1nSp3t_eL3M3nt?}
+### CYCTF{1nSp3t_eL3M3nt?}
