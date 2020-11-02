@@ -10,4 +10,5 @@ We have a main function that reads user data. Again, the vulnerable "gets" funct
 		system("/bin/sh");
 	}
 ```
-Just enter any 16 characters and 0xd3adb33f in little endian and get shell.
+Just enter any 16 characters and 0xd3adb33f in little endian and get shell.  
+### CYCTF{wh0@_y0u_jump3d_t0_th3_funct!0n}
