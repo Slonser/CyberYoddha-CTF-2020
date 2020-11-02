@@ -1,4 +1,4 @@
-#Something Sw33t
+# Something Sw33t
 If we check the Cookie, we will find a base64 string there,and if we try to decode it, we will get a string that does not carry a semantic load.Because it's [Flask cookies](https://pypi.org/project/flask-cookie-decode/)
 Let's decrypt
 ```
@@ -7,4 +7,4 @@ b': ''}}, {'description': {' b': 'the man'}, 'flag': {' b': 'Q1lDVEZ7MGtfMV9zZWV
 ```
 We see a lot of base64 strings let's decipher each one and look for the flag
 `Q1lDVEZ7MGtfMV9zZWVfeW91X21heWJlX3lvdV9hcmVfc21hcnR9 = CYCTF{0k_1_see_you_maybe_you_are_smart}`
-###CYCTF{0k_1_see_you_maybe_you_are_smart}
+### CYCTF{0k_1_see_you_maybe_you_are_smart}
