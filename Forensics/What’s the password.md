@@ -1,4 +1,4 @@
-#What’s the password.md
+# What’s the password.md
 The picture says that the password is "sudo", let's try steghide with passphrase sudo
 ```
 $steghide extract -sf sudo.jpg
