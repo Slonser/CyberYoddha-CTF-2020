@@ -9,3 +9,10 @@ A non-secure function gets(it does not check the length of user input) is used f
   }
 ```
 It is enough to overwrite 1 byte of str located directly under buf,that is, enter any 17 characters.
+```
+$ls
+flag.txt
+$cat flag.txt
+CYCTF{st@ck_0v3rfl0ws_@r3_3z}
+```
+### CYCTF{st@ck_0v3rfl0ws_@r3_3z}
